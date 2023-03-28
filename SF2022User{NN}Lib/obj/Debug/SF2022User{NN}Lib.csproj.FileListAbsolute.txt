@@ -1,0 +1,6 @@
+D:\ИС-32\Vanshev\Задача для разбора\SF2022User{NN}Lib\obj\Debug\SF2022User{NN}Lib.csproj.AssemblyReference.cache
+D:\ИС-32\Vanshev\Задача для разбора\SF2022User{NN}Lib\obj\Debug\SF2022User{NN}Lib.csproj.CoreCompileInputs.cache
+D:\ИС-32\Vanshev\Задача для разбора\SF2022User{NN}Lib\bin\Debug\SF2022User{NN}Lib.dll
+D:\ИС-32\Vanshev\Задача для разбора\SF2022User{NN}Lib\bin\Debug\SF2022User{NN}Lib.pdb
+D:\ИС-32\Vanshev\Задача для разбора\SF2022User{NN}Lib\obj\Debug\SF2022User{NN}Lib.dll
+D:\ИС-32\Vanshev\Задача для разбора\SF2022User{NN}Lib\obj\Debug\SF2022User{NN}Lib.pdb
